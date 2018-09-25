@@ -1,5 +1,5 @@
 _repo: Heron-kartanon-lapset_57956
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Walldén, Hilja
@@ -7,12 +7,17 @@ contributor:
     birthdate: 1871
     gutenberg_agent_id: '42640'
     url: http://www.gutenberg.org/2009/agents/42640
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Prydz, Alvilde
     gutenberg_agent_id: '49705'
     url: http://www.gutenberg.org/2009/agents/49705
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57956#Heron-kartanon-lapset
 gutenberg_issued: '2018-09-23'
 gutenberg_type: Text
 identifiers:
